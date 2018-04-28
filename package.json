@@ -9,17 +9,17 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "babel-core": "^6.26.0",
+    "babel-core": "^6.26.3",
     "babel-preset-env": "^1.6.1",
     "jasmine": "^3.1.0",
     "jasmine-jquery": "^2.1.1",
-    "karma": "^2.0.0",
+    "karma": "^2.0.2",
     "karma-babel-preprocessor": "^7.0.0",
     "karma-chrome-launcher": "^2.2.0",
     "karma-jasmine": "^1.1.1"
   },
   "dependencies": {
     "jquery": "^3.3.1",
-    "underscore": "^1.8.3"
+    "underscore": "^1.9.0"
   }
 }
